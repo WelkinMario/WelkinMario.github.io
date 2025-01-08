@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" /> 
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ site.url }}/assets/css/styles.css">
+    <link rel="shortcut icon" type="image/png" href="{{ site.url }}/assets/images/favicon.png">
+  </head>
+  <body>
+    {% include navigation.html %}
+    {{ content }}
+    {% include contact.html %}
+  </body>
+</html>

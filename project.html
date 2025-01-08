@@ -1,0 +1,13 @@
+---
+layout: default
+title: Project
+---
+
+<div class="project content"><ul>
+    {% for proj in site.data.projects %}
+      <li>
+        <h2><a href="{{ proj.link }}">{{ proj.name }}</a></h2>
+        {{ proj.short }}
+      </li>
+    {% endfor %}
+</ul></div>
