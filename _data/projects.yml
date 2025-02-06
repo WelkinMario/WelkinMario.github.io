@@ -1,9 +1,12 @@
 - name: Icon generator
   link: https://welkinmario.github.io/Icon/
   short: Design your own icon with your choice of text and font.
+- name: Rubi's Quests
+  link: https://welkinm.itch.io/rubis-quests
+  short: A video game made with Unity based on Rubik's cube. The project is built mostly in C# scripts and loaded with art assets from Unity Assets Store
 - name: Crystal Crypt
   link: https://welkinm.itch.io/crystal-crypt
-  short: A video game published on itch.io. Explore a maze in Minesweeper style.
+  short: A video game coded with Pygame in Python. Explore a maze in Minesweeper style.
 - name: Swing Robot
   link: https://welkinm.itch.io/robosport
   short: A video game published on itch.io. Utilize physics to make score as high as possible. 
